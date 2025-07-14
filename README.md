@@ -16,25 +16,7 @@ WanderMind is a LangChain-powered agentic AI application that helps users create
 
     🌐 Web UI using Streamlit (lightweight and fast).
 
-    AI_Trip_Planner/
-│
-├── agent/                    # Agent logic using LangChain
-│   └── agentic_workflow.py
-│
-├── tools/                   # Modular AI tools (weather, search, etc.)
-│
-├── config/                  # Configuration files
-│   └── config.yaml
-│
-├── logger/                  # Logging utilities
-├── exception/               # Custom exception handlers
-├── main.py                  # CLI interface
-├── streamlit_app.py         # Web interface via Streamlit
-├── requirements.txt         # Python dependencies
-├── README.md                # This file
-└── .env.name / .python-version etc.
-
-
+   
 🧩 Powered Tools (Modular Agents)
 
     WeatherTool – Uses location to provide live weather.
